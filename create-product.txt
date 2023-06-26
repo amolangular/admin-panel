@@ -1,0 +1,30 @@
+
+
+requestBody : 
+
+{
+ "productName":"",
+ "price":5000,
+ "imgName":"",
+ "imgPath":""
+}
+
+1.create-productN
+----------
+productN
+
+img-upload -> upload 
+//path-name
+
+Save
+-------
+{
+ "productName":"",
+ ""
+  
+}
+
+product-list
+--------
+
+
